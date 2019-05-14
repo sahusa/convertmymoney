@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+
+h1 img{
+    width: 489px;
+    height: 57px;
+    margin: 20px;
+}
+
+input, button{
+    display: inline-block;
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #000000;
+    background-color: #fdfdfd;
+    font-size: 24px;
+}
+
+.result{
+    padding: 10px;
+    border: 1px solid #d8d8d8;
+    background-color: #fdfdfd;
+    display: inline-block;
+}
